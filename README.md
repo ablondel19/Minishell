@@ -2,7 +2,7 @@
 A bash terminal, recreated in C.
 This is a group project
 
-This project is a collaboration with [Arnaud Blondel](https://github.com/ablondel19).
+This project is a collaboration => [Ablondel](https://github.com/ablondel19). [Ysoroko](https://github.com/Ysoroko).
 
 ![image](https://user-images.githubusercontent.com/36443074/142890265-e7e81cd8-14ee-489b-bc9d-9782b1934363.png)
 
